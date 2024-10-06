@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1atraya0&label=Profile%20views&color=0e75b6&style=flat" alt="1atraya0" /> </p>
 
-- 🌱 I’m currently learning **MERN , Computer Vision**
+- 🌱 I’m currently learning **MERN , Computer Vision, Machine Learning, NLP,LLMs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
