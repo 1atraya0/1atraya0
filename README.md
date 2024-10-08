@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atraya</h1>
-<h3 align="center">A passionate frontend developer from India India</h3>
+<h3 align="center">I can cook, code, play guitar</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1atraya0&label=Profile%20views&color=0e75b6&style=flat" alt="1atraya0" /> </p>
 
 - 🌱 I’m currently learning **MERN , Computer Vision, Machine Learning, NLP,LLMs**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
