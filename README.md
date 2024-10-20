@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atraya</h1>
 <h3 align="center">I can cook, code, play guitar</h3>
+<h4 align="center"> Jack of all trades master of none</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1atraya0&label=Profile%20views&color=0e75b6&style=flat" alt="1atraya0" /> </p>
 
